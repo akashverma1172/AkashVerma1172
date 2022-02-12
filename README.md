@@ -3,6 +3,6 @@
 - I have knowledge of <i>3D designing and game development</i>.
 - I am also interested in <i>machine learning and deep learning</i>.<br><br>
 ### Contact me
-- email    : Akshv1999@gmail.com<br>
+- email    : Akashv98877@gmail.com
 - linkedIn : https://www.linkedin.com/in/akash-verma-9029a514a <br>
 - Facebook : https://www.facebook.com/Akashv98877.
